@@ -1,0 +1,101 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-01,Furniture,Office Chair,5,250,1250,Oceania,PayPal
+10002,2024-01-02,Home Appliances,Robot Vacuum,4,350,1400,South America,Cash
+10003,2024-01-03,Home Appliances,Robot Vacuum,3,350,1050,Europe,Debit Card
+10004,2024-01-04,Jewelry,Pearl Earrings,5,200,1000,Africa,PayPal
+10005,2024-01-05,Electronics,Tablet,5,350,1750,South America,Cash
+10006,2024-01-06,Electronics,Smartwatch,2,250,500,Europe,Cash
+10007,2024-01-07,Home Appliances,Robot Vacuum,1,350,350,North America,Debit Card
+10008,2024-01-08,Electronics,Tablet,2,350,700,Oceania,Cash
+10009,2024-01-09,Electronics,Tablet,1,350,350,South America,Cash
+10010,2024-01-10,Sports,Snowboard,4,250,1000,Africa,PayPal
+10011,2024-01-11,Sports,Snowboard,1,250,250,Oceania,Credit Card
+10012,2024-01-12,Electronics,Tablet,5,350,1750,Asia,PayPal
+10013,2024-01-13,Electronics,Smartphone,3,400,1200,South America,Debit Card
+10014,2024-01-14,Home Appliances,Microwave,1,200,200,Oceania,PayPal
+10015,2024-01-15,Furniture,Bookshelf,2,200,400,Africa,Credit Card
+10016,2024-01-16,Electronics,Tablet,3,350,1050,Oceania,Debit Card
+10017,2024-01-17,Sports,Golf Club Set,3,450,1350,Europe,Credit Card
+10018,2024-01-18,Furniture,Bookshelf,3,200,600,South America,Credit Card
+10019,2024-01-19,Home Appliances,Robot Vacuum,3,350,1050,Asia,Debit Card
+10020,2024-01-20,Furniture,Office Chair,2,250,500,Africa,Credit Card
+10021,2024-01-21,Electronics,Smartphone,4,400,1600,North America,Debit Card
+10022,2024-01-22,Home Appliances,Robot Vacuum,4,350,1400,Africa,Debit Card
+10023,2024-01-23,Furniture,Standing Desk,5,400,2000,Africa,Cash
+10024,2024-01-24,Home Appliances,Robot Vacuum,5,350,1750,Oceania,Debit Card
+10025,2024-01-25,Electronics,Tablet,3,350,1050,South America,PayPal
+10026,2024-01-26,Jewelry,Designer Watch,5,400,2000,South America,Credit Card
+10027,2024-01-27,Sports,Golf Club Set,2,450,900,North America,PayPal
+10028,2024-01-28,Home Appliances,Robot Vacuum,5,350,1750,Africa,Debit Card
+10029,2024-01-29,Furniture,Bookshelf,2,200,400,North America,Credit Card
+10030,2024-01-30,Sports,Snowboard,1,250,250,Europe,Credit Card
+10031,2024-01-31,Sports,Golf Club Set,3,450,1350,North America,Debit Card
+10032,2024-02-01,Furniture,Standing Desk,4,400,1600,Europe,Debit Card
+10033,2024-02-02,Jewelry,Pearl Earrings,5,200,1000,Africa,Cash
+10034,2024-02-03,Sports,Golf Club Set,4,450,1800,South America,Debit Card
+10035,2024-02-04,Jewelry,Gold Chain,1,300,300,Oceania,Cash
+10036,2024-02-05,Jewelry,Designer Watch,4,400,1600,South America,Cash
+10037,2024-02-06,Sports,Snowboard,1,250,250,Oceania,Credit Card
+10038,2024-02-07,Furniture,Office Chair,4,250,1000,Oceania,PayPal
+10039,2024-02-08,Electronics,Smartphone,2,400,800,Europe,Debit Card
+10040,2024-02-09,Furniture,Bookshelf,4,200,800,Europe,Cash
+10041,2024-02-10,Home Appliances,Robot Vacuum,3,350,1050,South America,Debit Card
+10042,2024-02-11,Sports,Golf Club Set,4,450,1800,Africa,Credit Card
+10043,2024-02-12,Jewelry,Gold Chain,5,300,1500,North America,Credit Card
+10044,2024-02-13,Electronics,Smartphone,2,400,800,South America,Cash
+10045,2024-02-14,Sports,Mountain Bike,2,350,700,South America,Credit Card
+10046,2024-02-15,Home Appliances,Robot Vacuum,4,350,1400,North America,Cash
+10047,2024-02-16,Home Appliances,Microwave,4,200,800,Asia,Cash
+10048,2024-02-17,Electronics,Tablet,5,350,1750,Oceania,Cash
+10049,2024-02-18,Furniture,Office Chair,2,250,500,Asia,Debit Card
+10050,2024-02-19,Jewelry,Gold Chain,5,300,1500,Oceania,Credit Card
+10051,2024-02-20,Jewelry,Pearl Earrings,3,200,600,North America,Credit Card
+10052,2024-02-21,Home Appliances,Air Purifier,4,300,1200,Africa,Debit Card
+10053,2024-02-22,Furniture,Office Chair,5,250,1250,North America,Debit Card
+10054,2024-02-23,Home Appliances,Robot Vacuum,5,350,1750,North America,Debit Card
+10055,2024-02-24,Home Appliances,Microwave,1,200,200,Africa,Debit Card
+10056,2024-02-25,Sports,Snowboard,5,250,1250,North America,Credit Card
+10057,2024-02-26,Sports,Mountain Bike,5,350,1750,Africa,PayPal
+10058,2024-02-27,Sports,Mountain Bike,2,350,700,Oceania,PayPal
+10059,2024-02-28,Furniture,Office Chair,3,250,750,South America,Debit Card
+10060,2024-02-29,Furniture,Bookshelf,3,200,600,South America,PayPal
+10061,2024-03-01,Jewelry,Gold Chain,1,300,300,South America,Credit Card
+10062,2024-03-02,Electronics,Smartphone,5,400,2000,Europe,PayPal
+10063,2024-03-03,Home Appliances,Robot Vacuum,3,350,1050,North America,Debit Card
+10064,2024-03-04,Furniture,Standing Desk,3,400,1200,Europe,Cash
+10065,2024-03-05,Furniture,Bookshelf,3,200,600,Africa,Credit Card
+10066,2024-03-06,Jewelry,Pearl Earrings,5,200,1000,Asia,Credit Card
+10067,2024-03-07,Jewelry,Gold Chain,3,300,900,North America,Credit Card
+10068,2024-03-08,Sports,Snowboard,5,250,1250,Europe,PayPal
+10069,2024-03-09,Electronics,Smartwatch,5,250,1250,Europe,PayPal
+10070,2024-03-10,Electronics,Smartphone,3,400,1200,Africa,Cash
+10071,2024-03-11,Electronics,Smartwatch,1,250,250,North America,Cash
+10072,2024-03-12,Electronics,Smartwatch,1,250,250,North America,PayPal
+10073,2024-03-13,Furniture,Office Chair,3,250,750,Europe,Cash
+10074,2024-03-14,Sports,Snowboard,4,250,1000,Africa,Credit Card
+10075,2024-03-15,Sports,Golf Club Set,1,450,450,Oceania,Debit Card
+10076,2024-03-16,Jewelry,Pearl Earrings,1,200,200,Asia,Debit Card
+10077,2024-03-17,Electronics,Smartwatch,2,250,500,North America,PayPal
+10078,2024-03-18,Home Appliances,Microwave,1,200,200,Asia,Debit Card
+10079,2024-03-19,Jewelry,Pearl Earrings,2,200,400,Oceania,Credit Card
+10080,2024-03-20,Furniture,Standing Desk,5,400,2000,South America,Debit Card
+10081,2024-03-21,Jewelry,Gold Chain,2,300,600,Europe,Cash
+10082,2024-03-22,Jewelry,Gold Chain,2,300,600,Oceania,PayPal
+10083,2024-03-23,Furniture,Standing Desk,2,400,800,Asia,Debit Card
+10084,2024-03-24,Sports,Snowboard,1,250,250,South America,Credit Card
+10085,2024-03-25,Furniture,Standing Desk,2,400,800,Europe,Cash
+10086,2024-03-26,Jewelry,Designer Watch,3,400,1200,Europe,Debit Card
+10087,2024-03-27,Jewelry,Gold Chain,2,300,600,South America,PayPal
+10088,2024-03-28,Electronics,Smartwatch,1,250,250,Asia,PayPal
+10089,2024-03-29,Home Appliances,Air Purifier,5,300,1500,South America,PayPal
+10090,2024-03-30,Jewelry,Gold Chain,1,300,300,Asia,Debit Card
+10091,2024-03-31,Home Appliances,Air Purifier,3,300,900,North America,Credit Card
+10092,2024-04-01,Sports,Snowboard,4,250,1000,Asia,PayPal
+10093,2024-04-02,Furniture,Standing Desk,5,400,2000,Africa,Credit Card
+10094,2024-04-03,Sports,Mountain Bike,5,350,1750,Europe,PayPal
+10095,2024-04-04,Home Appliances,Robot Vacuum,4,350,1400,North America,Debit Card
+10096,2024-04-05,Electronics,Smartwatch,4,250,1000,North America,PayPal
+10097,2024-04-06,Jewelry,Pearl Earrings,3,200,600,Oceania,Credit Card
+10098,2024-04-07,Sports,Snowboard,3,250,750,Africa,PayPal
+10099,2024-04-08,Jewelry,Pearl Earrings,4,200,800,Asia,Cash
+10100,2024-04-09,Home Appliances,Air Purifier,3,300,900,Africa,Debit Card
